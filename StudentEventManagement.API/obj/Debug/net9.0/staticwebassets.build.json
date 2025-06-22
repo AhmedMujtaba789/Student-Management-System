@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "S8KAjv7kXc91Xi+TTv878pY61KAEc6MuFF5UkLocWLI=",
+  "Source": "UniVerseEvents.API",
+  "BasePath": "_content/UniVerseEvents.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniVerseEvents.API\\wwwroot",
+      "Source": "UniVerseEvents.API",
+      "ContentRoot": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\",
+      "BasePath": "_content/UniVerseEvents.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\h0dqj0pnqz-fe282jmq8p.gz",
+      "SourceId": "UniVerseEvents.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/UniVerseEvents.API",
+      "RelativePath": "css/custom-swagger#[.{fingerprint=fe282jmq8p}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tyw6byqp3v",
+      "Integrity": "ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css",
+      "SourceId": "UniVerseEvents.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\",
+      "BasePath": "_content/UniVerseEvents.API",
+      "RelativePath": "css/custom-swagger#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fe282jmq8p",
+      "Integrity": "JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom-swagger.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/custom-swagger.css",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\h0dqj0pnqz-fe282jmq8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000540248514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1850"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-swagger.css",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-swagger.css.gz",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\h0dqj0pnqz-fe282jmq8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-swagger.fe282jmq8p.css",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\h0dqj0pnqz-fe282jmq8p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000540248514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1850"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fe282jmq8p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-swagger.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-swagger.fe282jmq8p.css",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fe282jmq8p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-swagger.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwyNr1uX19ojYH5CmqYehWwI70XMTQKvIOsIROs71Ys="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom-swagger.fe282jmq8p.css.gz",
+      "AssetFile": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\obj\\Debug\\net9.0\\compressed\\h0dqj0pnqz-fe282jmq8p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 19:03:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fe282jmq8p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom-swagger.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZX8TBJU0N+xOMcXztOzfYu6WwCp9XDP0g9UN/3yfhUc="
+        }
+      ]
+    }
+  ]
+}

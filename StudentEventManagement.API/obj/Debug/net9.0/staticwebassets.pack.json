@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmed\\Downloads\\CCP StudentMAnager-Mujtaba\\CCP StudentMAnager-Mujtaba\\StudentEventManagement.API\\wwwroot\\css\\custom-swagger.css",
+      "PackagePath": "staticwebassets\\css\\custom-swagger.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UniVerseEvents.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.UniVerseEvents.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.UniVerseEvents.API.props",
+      "PackagePath": "build\\UniVerseEvents.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.UniVerseEvents.API.props",
+      "PackagePath": "buildMultiTargeting\\UniVerseEvents.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.UniVerseEvents.API.props",
+      "PackagePath": "buildTransitive\\UniVerseEvents.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
